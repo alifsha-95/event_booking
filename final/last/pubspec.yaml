@@ -1,0 +1,39 @@
+name: last
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pin_code_fields: ^8.0.1
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image.png
+    - assets/upcoming.png
+    - assets/onbord.png
+    - assets/last.png
+    - assets/sign.png
+    - assets/fbok.png
+    - assets/google.png
+    - assets/botm.png
+    - assets/tm.png
+    - assets/scnd.png
+    - assets/img.a.png
+    - assets/img.c.png
+    - assets/hand.png
+    - assets/gut.png
+    - assets/cln.png
+    - assets/shoe.png
+
